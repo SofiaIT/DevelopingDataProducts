@@ -1,4 +1,4 @@
 DevelopingDataProducts
 ======================
 
-DDP - Johns Hopkins University
+DDP - Data Science Specialization - Johns Hopkins University on Coursera
